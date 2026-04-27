@@ -1,9 +1,8 @@
 ## Interface: 30300
 ## Title: RaidTracker
-## Notes: Tracks raid lockouts across characters / Guarda saves de banda entre personajes.
+## Notes: Tracks raid lockouts across characters / Guarda saveos de banda entre personajes. Sync uses SendAddonMessage.
 ## Author: Northbridge
-## Version: 2.0
-
+## SavedVariables: RaidTrackerDB
 
 Core.lua
 Sync.lua
